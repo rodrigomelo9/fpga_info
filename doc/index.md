@@ -71,4 +71,31 @@
 
 ## Microsemi (Actel)
 
+* **ProASIC**
+  * *ProASIC*: ProASIC | ProASIC Plus
+  * *ProASIC3*: ProASIC3 | ProASIC3E | ProASIC3 nano | ProASIC3L
+* **Fusion**
+  * *Fusion*: Fusion
+* **IGLOO**
+  * *IGLOO*: IGLOO | IGLOOe | IGLOO nano | IGLOO PLUS
+  * *IGLOO 2*: IGLOO 2
+* **SmartFusion**
+  * *SmartFusion*: SmartFusion
+  * *SmartFusion 2*: SmartFusion 2
+* **PolarFire**
+  * *PolarFire*: PolarFire
+* **Rad-Tolerant**:
+  * *RTG4*: RTG4
+  * *RTAX*: RTAX-S | RTAX-SL | RTAX-DSP
+  * *RT ProASIC3*: RT ProASIC3
+  * *RTSX-SU*: RTSX | RTSX-S | RTSX-SU
+* **Antifuse**:
+  * *Act*: Act 1 | Act 2 | Act 3
+  * *Integrator*: 1200XL | 3200DX
+  * *Axcelerator*: Axcelerator
+  * *eX*: eX
+  * *SX*: SX | SX-A
+  * *MX*: MX
+
 ## Lattice
+
