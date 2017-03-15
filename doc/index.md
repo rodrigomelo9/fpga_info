@@ -1,4 +1,7 @@
-# Xilinx
+# Index
+
+## Xilinx
+
 * **Unnamed**
   * *XC2000*: XC2000 | XC2000L
   * *XC3000*: XC3000 | XC3000A | XC3000L
@@ -32,7 +35,8 @@
   * *Zynq 7000*: Zynq 7000 (Artix) | Zynq 7000 (Kintex) | Zynq 7000S (Artix)
   * *Zynq UltraScale+*: Zynq UltraScale+ CG | Zynq UltraScale+ EG | Zynq UltraScale+ EV
 
-# Intel/Altera
+## Intel (Altera)
+
 * **FLEX**
   * *FLEX*: FLEX 6000 | FLEX 8000
   * *FLEX 10K*: FLEX 10K | FLEX 10KE | FLEX 10KA
@@ -64,3 +68,7 @@
   * *Stratix 10*: Stratix 10GX | Stratix 10SX | Stratix 10TX | Stratix 10MX
 * **MAX**
   * *MAX 10*: MAX 10
+
+## Microsemi (Actel)
+
+## Lattice
