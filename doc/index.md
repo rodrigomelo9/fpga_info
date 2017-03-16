@@ -99,3 +99,28 @@
 
 ## Lattice
 
+* **ORCA**
+  * *ORCA Series 2*: ORCA Series 2
+  * *ORCA Series 3*: ORCA Series 3
+  * *ORCA Series 4*: ORCA Series 4
+* **ispXP**
+  * *ispXPGA*: ispXPGA | ispXPGA E-series
+* **LatticeSC**
+  * *LatticeSC*: LatticeSC | LatticeSCM
+* **LatticeXP**
+  * *LatticeXP*: LatticeXP
+  * *LatticeXP2*: LatticeXP2
+* **MachX**
+  * *MachX0*: MachXOE | MachXOC
+  * *MachX02*: MachXO2 | MachXO2U
+  * *MachX03*: MachXO3L | MachXO3LF
+* **ECP**
+  * *LatticeEC*:
+  * *LatticeECP-DSP*:
+  * *LatticeECP2*: LatticeECP2 | LatticeECP2M
+  * *LatticeECP3*:
+  * *ECP5*: ECP5 | ECP5-5G
+* **iCE**
+  * *iCE40*: iCE 40 UltraLite | iCE 40 Ultra | iCE 40 UltraPlus | iCE40 LP | iCE40 HX | iCE40 LM
+* **CrossLink**
+  * *CrossLink*: CrossLink
